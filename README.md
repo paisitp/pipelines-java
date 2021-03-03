@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/paisitp/First%20Test%20Project/_apis/build/status/paisitp.pipelines-java?branchName=master)](https://dev.azure.com/paisitp/First%20Test%20Project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
